@@ -9,5 +9,5 @@ A headless GNU/Linux Ubuntu machine in a container through a web desktop in a br
 
 ## RUN
 
-    docker run -d -p 6080:80 --name novnc -v /dev/shm:/dev/shm giodegas/novnc-ubuntu-arm64
+    docker run -d -p 8080:80 --name novnc -v /dev/shm:/dev/shm giodegas/novnc-ubuntu-arm64
 
