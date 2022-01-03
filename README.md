@@ -1,5 +1,7 @@
 # novnc-ubuntu-arm64
-A headless GNU/Linux Ubuntu machine in a container through a web desktop in a browser
+A headless GNU/Linux Ubuntu machine in a container through a web desktop in a browser.
+
+It runs smoothly on a [Apple M1](https://en.wikipedia.org/wiki/Apple_M1) with [Docker](https://en.wikipedia.org/wiki/Docker_(software))
 
 ## BUILD
 
